@@ -1,0 +1,10 @@
+City,Months,Model,RMSE,MAPE_%
+Ahmedabad,65,"SARIMA(1,1,0)(0,1,1,12)",229.73,105.26
+Bengaluru,63,"SARIMA(1,1,1)(0,1,1,12)",20.64,24.14
+Chennai,63,"SARIMA(1,1,1)(0,1,1,12)",20.65,21.6
+Delhi,66,"SARIMA(1,1,1)(0,1,1,12)",48.72,25.9
+Gurugram,53,"SARIMA(0,1,1)(0,1,1,12)",32.28,18.94
+Hyderabad,63,"SARIMA(1,1,0)(0,1,1,12)",18.08,14.31
+Lucknow,63,"SARIMA(1,1,1)(0,1,1,12)",55.9,34.06
+Patna,57,"SARIMA(0,1,1)(0,1,1,12)",41.45,19.55
+Visakhapatnam,48,Seasonal Naive,53.73,42.95
